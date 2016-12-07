@@ -204,6 +204,11 @@
       "from": "async-foreach@>=0.1.3 <0.2.0",
       "resolved": "https://registry.npmjs.org/async-foreach/-/async-foreach-0.1.3.tgz"
     },
+    "attr-accept": {
+      "version": "1.1.0",
+      "from": "attr-accept@>=1.0.3 <2.0.0",
+      "resolved": "https://registry.npmjs.org/attr-accept/-/attr-accept-1.1.0.tgz"
+    },
     "autolinker": {
       "version": "0.15.3",
       "from": "autolinker@>=0.15.0 <0.16.0",
@@ -4117,6 +4122,11 @@
       "from": "minimist@>=1.2.0 <2.0.0",
       "resolved": "https://registry.npmjs.org/minimist/-/minimist-1.2.0.tgz"
     },
+    "mixpanel": {
+      "version": "0.5.0",
+      "from": "mixpanel@>=0.5.0 <0.6.0",
+      "resolved": "https://registry.npmjs.org/mixpanel/-/mixpanel-0.5.0.tgz"
+    },
     "mkdirp": {
       "version": "0.5.1",
       "from": "mkdirp@>=0.5.1 <0.6.0",
@@ -5091,6 +5101,11 @@
       "from": "react-dom@>=15.3.2 <16.0.0",
       "resolved": "https://registry.npmjs.org/react-dom/-/react-dom-15.3.2.tgz"
     },
+    "react-dropzone": {
+      "version": "3.7.3",
+      "from": "react-dropzone@latest",
+      "resolved": "https://registry.npmjs.org/react-dropzone/-/react-dropzone-3.7.3.tgz"
+    },
     "react-foundation-components": {
       "version": "0.11.1",
       "from": "git+https://github.com/valzav/react-foundation-components.git#lib",
@@ -5933,7 +5948,7 @@
     },
     "tarantool-driver": {
       "version": "2.0.1",
-      "from": "tarantool-driver@>=2.0.1 <3.0.0",
+      "from": "tarantool-driver@latest",
       "resolved": "https://registry.npmjs.org/tarantool-driver/-/tarantool-driver-2.0.1.tgz",
       "dependencies": {
         "underscore": {
